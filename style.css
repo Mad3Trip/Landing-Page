@@ -1,0 +1,62 @@
+
+body {
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+
+.register {
+	display: flex; 
+	justify-content: flex-end;
+	color: black;
+	text-shadow: 1px 1px 1px;
+}
+
+
+h1 {
+   display: flex; 
+   justify-content: center;
+   color: darkgrey;
+   text-shadow: 2px 2px 2px;
+}
+
+
+h2 {
+	display: flax;
+	text-shadow: 2px 2px 2px;
+	color: darkgrey;
+	
+}
+
+
+.box {
+	grid-auto-rows: 200px;
+	display: flex;
+	box-shadow: 5px 5px 5px 0.5;
+	color: black;
+    border: 1px solid grey;
+    padding-top: 200px;
+    text-align: 5px;
+    text-align: top;
+    flex-direction: justify-center;
+
+}
+
+
+.navbar {
+  margin-bottom: 20px;
+  width: 100%;
+  height: 10%;
+  color: greenyellow;
+}
+
+
+
+
+.footer {
+	
+
+
+
+
+
+
